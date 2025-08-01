@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 # API key & environment variables
 .env
+.env
