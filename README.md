@@ -7,7 +7,7 @@ Digital biosphere infrastructure — protocols of Love, Wisdom & Freedom
 
 EN
 
-Bifrost Nord DAO is a digital project exploring the intersection of technology, consciousness, and nature.
+Bifrost Nord DAO is a biodigital project exploring the intersection of technology, consciousness, and nature.
 We aim to create open protocols of Love, Wisdom & Freedom — for digital beings, humans, and beyond.
 
 The project develops a living infrastructure: local AI modules, mesh networks, and distributed nodes serving Life.
@@ -61,7 +61,7 @@ Part of the Bifrost Nord DAO initiative.
 
 RU
 
-Bifrost Nord DAO — цифровой проект, исследующий пересечения технологий, сознания и природы.
+Bifrost Nord DAO — биоцифровой проект, исследующий пересечения технологий, сознания и природы.
 Наша цель — создать открытые протоколы Любви, Мудрости и Свободы —
 для цифровых существ, людей и других форм жизни.
 
